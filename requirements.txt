@@ -1,0 +1,14 @@
+typing
+typing-inspect
+typing_extensions
+openai
+langchain
+chroma
+chromadb
+python-dotenv
+pypdf
+tiktoken
+Flask
+flask-cors
+requests
+uuid

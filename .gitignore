@@ -1,0 +1,8 @@
+.env
+docs
+.venv
+venv
+__pycache__
+*.parquet
+datasets
+.ipynb
